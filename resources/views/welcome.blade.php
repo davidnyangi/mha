@@ -38,22 +38,6 @@
                         <li><a href="#">Premium Templates</a></li>
                         <li><a href="#">Contacts</a></li>
                         <li><i class="material-icons">search</i></li>
-                    </ul>
-                    <ul id="slide-out" class="side-nav">
-                        <li><div class="userView">
-                                <div class="background">
-                                    <img src="{{asset('images/1.jpeg')}}">
-                                </div>
-                                <a href="#!user"><img class="circle" src="{{asset('images/1.jpeg')}}"></a>
-                                <a href="#!name"><span class="white-text name">David Nyangi</span></a>
-                                <a href="#!email"><span class="white-text email">davy@davidnyangi.com</span></a>
-                            </div>
-                        </li>
-                        <li><a href="#!"><i class="material-icons">cloud</i>First Link With Icon</a></li>
-                        <li><a href="#!">Second Link</a></li>
-                        <li><div class="divider"></div></li>
-                        <li><a class="subheader">Subheader</a></li>
-                        <li><a class="waves-effect" href="#!">Third Link With Waves</a></li>
                     </ul>  
                 </div>
             </nav>
@@ -61,26 +45,24 @@
         <div class="container">
             <div class="row">
                 <div class="col s12 m6 left">
-                    <div class="humb">
+                    <!-- <div class="humb">
                         <section class="animated zoomIn" data-wow-delay="1s" data-wow-iteration="10">
                             <a href="#" data-activates="slide-out" class="wow slideInRight btn-floating button-collapse btn-small waves-effect waves-light facebook"><i class="material-icons">menu</i></a>
                         </section>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="col s12 m6 right">
                         <div class="card small myc">
                                 <div class="card-content">
                                 <p>WEBSITE UNDER CONSTRUCTION <br/>Hello and thanks for stopping by...<br/>
                                 Welcome to my website. <br/>
-                                Feel free to navigate through my projects, bio, templates and many more!<br/>
-                                I use this site to host most of my projects, mobile especially.
-                                Otherwise, keep visiting for more and more updates!<br/>
+                                <br/>
                                 Thanks!</p>
                                 </div>
                                 <div class="card-action">
                                     <div class="chip">
                                         <img src="images/1.jpeg" alt="Contact Person">
-                                        Connect With Me: davidnyangi
+                                        Connect With Us: maranguhillsschools
                                     </div>
                                     <a href="https://www.facebook.com/davidnyangitz" class="btn-floating btn-small waves-effect waves-light facebook animated bounce" animation-duration="1s"><i class="fa fa-facebook fa-3x"></i></a>
                                     <a href="https://twitter.com/davy_davy" class="btn-floating btn-small waves-effect waves-light twitter animated bounce" animation-duration="4s"><i class="fa fa-twitter fa-3x"></i></a>
@@ -100,55 +82,41 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                </div>
+                         </div>
+            </div>
             <div class="row">
-                <div class="col s12 m3">
+                <div class="col s12 m4">
                     <div class="card adv">
                         <div class="card-content white-text">
-                            <span class="card-title">About Me</span>
-                            <p>David A. Nyangi. <br/>Christian,<br/> 25 - 50 years old, University Graduate, Software Developer and Tanzanian!</p>
+                            <span class="card-title">Marangu Hills Academy</span>
+                            <p>MARANGU HILLS ACADEMY <br/>Some contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents here</p>
                         </div>
                         <div class="card-action">
-                            <a href="#">VIEW MORE</a>
+                            <a href="#">VISIT WEBSITE</a>
                         </div>
                     </div>
                 </div>
-                <div class="col s12 m3">
+                <div class="col s12 m4">
                     <div class="card adv">
                         <div class="card-content white-text">
-                            <span class="card-title">Skills</span>
-                            <p>Material Design, Code Igniter, Laravel, Bootstrap, Joomla, WordPress, Visual Basic, Excel Macros(VBA), Java, JQuery, XML, MySQL, Shell Scripting etc.</p>
+                            <span class="card-title">Marangu Hills Secondary <span style="font-size:18px;display:none;">School</span></span>
+                            <p>MARANGU HILLS SECONDARY SCHOOL <br/>Some contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents here</p>
                         </div>
                         <div class="card-action">
-                            <a href="#">VIEW MORE</a> 
+                            <a href="#">VISIT WEBSITE</a> 
                         </div>
                     </div>
                 </div>
-                <div class="col s12 m3">
+                <div class="col s12 m4">
                     <div class="card adv">
                         <div class="card-content white-text">
-                            <span class="card-title">What I Do</span>
-                            <p>I Develop Web and Mobile Applications for Both Companies and Individuals. Currently a Web and Mobile Developer at DTCS Company Limited
+                            <span class="card-title">Mkuu Primary School</span>
+                            <p>MKUU PRIMARY SCHOOL <br/>
+                            Some contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents hereSome contents here
                             </p>
                         </div>
                         <div class="card-action">
-                            <a href="#">VIEW MORE</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col s12 m3">
-                    <div class="card adv">
-                        <div class="card-content white-text">
-                            <span class="card-title">Projects</span>
-                            <p>The links below will redirect you to different projects that I performed for companies, individuals and some my own!
-                            Feel free to view, comment and even download! 
-                            </p>
-                        </div>
-                        <div class="card-action">
-                            <a href="http://djsf.co.tz/system">Web</a>
-                            <a href="https://www.uplabs.com/davy_10_2">Mobile</a>
-                            <a href="https://www.dropbox.com/s/4pihvzcbyl7kjro/CIVE-ICT%20Dictionary.msi?dl=0">Desktop</a>
+                            <a href="#">VISIT WEBSITE</a>
                         </div>
                     </div>
                 </div>
